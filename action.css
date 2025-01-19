@@ -1,0 +1,117 @@
+h1{
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 70px;
+    color: azure;
+}
+h2{
+    text-align: center;
+    font-family: sans-serif;
+    text-shadow: #d2d2d2;
+}
+.photo-item{
+    display: flex;
+    align-items: start;
+    justify-content: flex-start;
+    gap: 10px;
+}
+.photo-item h1{
+    margin: 0;
+    font-family: sans-serif;
+    font-size: 30px;
+    color: rgb(231, 195, 195);
+}
+.photo-item p{
+    margin: 0;
+    font-family: sans-serif;
+    font-size: 18px;
+    color: #ffffff;
+
+}
+div{
+    background-color: rgb(0, 0, 0);
+}
+.photo-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 15px;
+    padding: 20px;
+    justify-content: center;
+}
+
+/* Fotoğraf Elemanları */
+.photo-item img {
+    justify-content: end;
+    width: 15%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    transition: transform 0.3s ease;
+}
+
+.photo-item img:hover {
+    transform: scale(1.05);
+}
+.nav {
+    background-color: #1c0a0a;
+    overflow: hidden;
+}
+
+.nav a {
+    float: right;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-family: sans-serif;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    .nav .search-box {
+    margin-left: auto;
+}
+.nav .search-box {
+    margin-left: auto;
+}
+
+.search-box input[type="text"] {
+    padding: 5px;
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+.search-box input[type="submit"] {
+    padding: 5px 10px;
+    font-family: sans-serif;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.search-box input[type="text"] {
+    padding: 5px;
+    font-family: sans-serif;
+    font-size: 16px;
+}
+
+.search-box input[type="submit"] {
+    padding: 5px 10px;
+    font-size: 16px;
+    font-family: sans-serif;
+    cursor: pointer;
+}
+}
+/* bunlar home kısmı */
+#home {
+  float: left;
+  font-family: sans-serif;
+  background-color: rgb(46, 5, 5);
+  color: #ffffff;
+}
+
+.nav a:hover {
+    background-color: rgb(27, 0, 0);
+    color: rgb(255, 255, 255);
+}
+
+.nav a.active {
+    background-color: rgb(43, 0, 0);
+    color: rgb(255, 255, 255);
+}

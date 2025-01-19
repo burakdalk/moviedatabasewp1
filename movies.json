@@ -1,0 +1,302 @@
+[
+    {
+        "id": 1,
+        "name": "The Shawshank Redemption",
+        "email": "A banker convicted of uxoricide forms a friendship over a quarter century with a hardened convict, while maintaining his innocence and trying to remain hopeful through simple compassion."
+    },
+    {
+        "id": 2,
+        "name": "The Godfather",
+        "email": "The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son."
+    },
+    {
+        "id": 3,
+        "name": "The Dark Knight",
+        "email": "When a menace known as the Joker wreaks havoc and chaos on the people of Gotham, Batman, James Gordon and Harvey Dent must work together to put an end to the madness."
+    },
+    {
+        "id": 4,
+        "name": "The Godfather Part II",
+        "email": "The early life and career of Vito Corleone in 1920s New York City is portrayed, while his son, Michael, expands and tightens his grip on the family crime syndicate."
+    },
+    {
+        "id": 5,
+        "name": "12 Angry Men",
+        "email": "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict."
+    },
+    {
+        "id": 6,
+        "name": "Schindler's List",
+        "email": "In German-occupied Poland during World War II, industrialist Oskar Schindler gradually becomes concerned for his Jewish workforce after witnessing their persecution by the Nazis."
+    },
+    {
+        "id": 7,
+        "name": "Pulp Fiction",
+        "email": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
+    },
+    {
+        "id": 8,
+        "name": "The Good, the Bad and the Ugly",
+        "email": "A bounty hunting scam joins two men in an uneasy alliance against a third in a race to find a fortune in gold buried in a remote cemetery."
+    },
+    {
+        "id": 9,
+        "name": "Forrest Gump",
+        "email": "The history of the United States from the 1950s to the '70s unfolds from the perspective of an Alabama man with an IQ of 75, who yearns to be reunited with his childhood sweetheart."
+    },
+    {
+        "id": 10,
+        "name": "Fight Club",
+        "email": "An insomniac office worker and a devil-may-care soap maker form an underground fight club that evolves into much more."
+    },
+    {
+        "id": 11,
+        "name": "Inception",
+        "email": "A thief who steals corporate secrets through the use of dream-sharing technology is given the inverse task of planting an idea into the mind of a C.E.O., but his tragic past may doom the project and his team to disaster."
+    },
+    {
+        "id": 12,
+        "name": "The Matrix",
+        "email": "When a beautiful stranger leads computer hacker Neo to a forbidding underworld, he discovers the shocking truth--the life he knows is the elaborate deception of an evil cyber-intelligence."
+    },
+    {
+        "id": 13,
+        "name": "Goodfellas",
+        "email": "The story of Henry Hill and his life in the mafia, covering his relationship with his wife Karen and his mob partners Jimmy Conway and Tommy DeVito."
+    },
+    {
+        "id": 14,
+        "name": "Interstellar",
+        "email": "When Earth becomes uninhabitable in the future, a farmer and ex-NASA pilot, Joseph Cooper, is tasked to pilot a spacecraft, along with a team of researchers, to find a new planet for humans."
+    },
+    {
+        "id": 15,
+        "name": "Se7en",
+        "email": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his motives."
+    },
+    {
+        "id": 16,
+        "name": "The Silence of the Lambs",
+        "email": "A young F.B.I. cadet must receive the help of an incarcerated and manipulative cannibal killer to help catch another serial killer, a madman who skins his victims."
+    },
+    {
+        "id": 17,
+        "name": "Saving Private Ryan",
+        "email": "Following the Normandy Landings, a group of U.S. soldiers go behind enemy lines to retrieve a paratrooper whose brothers have been killed in action."
+    },
+    {
+        "id": 18,
+        "name": "City of God",
+        "email": "In the slums of Rio, two kids' paths diverge as one struggles to become a photographer and the other a kingpin."
+    },
+    {
+        "id": 19,
+        "name": "The Green Mile",
+        "email": "Paul Edgecomb, the head guard of a prison, meets an inmate, John Coffey, a black man who is accused of murdering two girls. His life changes drastically when he discovers that John has a special gift."
+    },
+    {
+        "id": 20,
+        "name": "Life Is Beautiful",
+        "email": "When an open-minded Jewish waiter and his son become victims of the Holocaust, he uses a perfect mixture of will, humor and imagination to protect his son from the dangers around their camp."
+    },
+    {
+        "id": 21,
+        "name": "Back to the Future",
+        "email": "Marty McFly, a 17-year-old high school student, is accidentally sent 30 years into the past in a time-traveling DeLorean invented by his close friend, the maverick scientist Doc Brown."
+    },
+    {
+        "id": 22,
+        "name": "Spirited Away",
+        "email": "During her family's move to the suburbs, a sullen 10-year-old girl wanders into a world ruled by gods, witches and spirits, and where humans are changed into beasts."
+    },
+    {
+        "id": 23,
+        "name": "The Pianist",
+        "email": "During WWII, acclaimed Polish musician Wladyslaw faces various struggles as he loses contact with his family. As the situation worsens, he hides in the ruins of Warsaw in order to survive."
+    },
+    {
+        "id": 24,
+        "name": "Parasite",
+        "email": "Greed and class discrimination threaten the newly formed symbiotic relationship between the wealthy Park family and the destitute Kim clan."
+    },
+    {
+        "id": 25,
+        "name": "Gladiator",
+        "email": "A former Roman General sets out to exact vengeance against the corrupt emperor who murdered his family and sent him into slavery."
+    },
+        {
+            "id": 26,
+            "name": "The Lion King",
+            "email": "Lion prince Simba and his father are targeted by his bitter uncle, who wants to ascend the throne himself."
+        },
+        {
+            "id": 27,
+            "name": "The Departed",
+            "email": "An undercover cop and a mole in the police attempt to identify each other while infiltrating an Irish gang in South Boston."
+        },
+        {
+            "id": 28,
+            "name": "Whiplash",
+            "email": "A promising young drummer enrolls at a cut-throat music conservatory where his dreams of greatness are mentored by an instructor who will stop at nothing to realize a student's potential."
+        },
+        {
+            "id": 29,
+            "name": "Spider-Man: Across the Spider-Verse",
+            "email": "Miles Morales catapults across the multiverse, where he encounters a team of Spider-People charged with protecting its very existence. When the heroes clash on how to handle a new threat, Miles must redefine what it means to be a hero."
+        },
+        {
+            "id": 30,
+            "name": "The Prestige",
+            "email": "Rival 19th-century magicians engage in a bitter battle for trade secrets."
+        },
+        {
+            "id": 31,
+            "name": "Léon: The Professional",
+            "email": "12-year-old Mathilda is reluctantly taken in by Léon, a professional assassin, after her family is murdered. An unusual relationship forms as she becomes his protégée and learns the assassin's trade."
+        },
+        {
+            "id": 32,
+            "name": "The Intouchables",
+            "email": "After he becomes a quadriplegic from a paragliding accident, an aristocrat hires a young man from the projects to be his caregiver."
+        },
+        {
+            "id": 33,
+            "name": "Cinema Paradiso",
+            "email": "Salvatore, a famous film director, returns to his hometown for the funeral of the local theater's film projectionist, Alfredo. He reminisces about his life as a young boy falling in love with cinema."
+        },
+        {
+            "id": 34,
+            "name": "Alien",
+            "email": "After investigating a mysterious transmission of unknown origin, the crew of a commercial spacecraft encounters a deadly lifeform."
+        },
+        {
+            "id": 35,
+            "name": "Django Unchained",
+            "email": "With the help of a German bounty-hunter, a freed slave sets out to rescue his wife from a brutal plantation owner in Mississippi."
+        },
+        {
+            "id": 36,
+            "name": "Memento",
+            "email": "Leonard Shelby, an insurance investigator, suffers from anterograde amnesia and uses notes and tattoos to hunt for the man he thinks killed his wife, which is the last thing he remembers."
+        },
+        {
+            "id": 37,
+            "name": "WALL·E",
+            "email": "A robot who is responsible for cleaning a waste-covered Earth meets another robot and falls in love with her. Together, they set out on a journey that will alter the fate of mankind."
+        },
+        {
+            "id": 38,
+            "name": "The Lives of Others",
+            "email": "In 1984 East Berlin, an agent of the secret police conducting surveillance on a writer and his lover finds himself becoming increasingly absorbed by their lives."
+        },
+        {
+            "id": 39,
+            "name": "12th Fail",
+            "email": "The real-life story of IPS Officer Manoj Kumar Sharma and IRS Officer Shraddha Joshi."
+        },
+        {
+            "id": 40,
+            "name": "Avengers: Infinity War",
+            "email": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe."
+        },
+        {
+            "id": 41,
+            "name": "Aliens",
+            "email": "Decades after surviving the Nostromo incident, Ellen Ripley is sent out to re-establish contact with a terraforming colony but finds herself battling the Alien Queen and her offspring."
+        },
+        {
+            "id": 42,
+            "name": "Inglourious Basterds",
+            "email": "In Nazi-occupied France during World War II, a plan to assassinate Nazi leaders by a group of Jewish U.S. soldiers coincides with a theatre owner's vengeful plans for the same."
+        },
+        {
+            "id": 43,
+            "name": "The Dark Knight Rises",
+            "email": "Bane, an imposing terrorist, attacks Gotham City and disrupts its eight-year-long period of peace. This forces Bruce Wayne to come out of hiding and don the cape and cowl of Batman again."
+        },
+        {
+            "id": 44,
+            "name": "Coco",
+            "email": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer."
+        },
+        {
+            "id": 45,
+            "name": "Toy Story",
+            "email": "A cowboy doll is profoundly threatened and jealous when a new spaceman action figure supplants him as top toy in a boy's bedroom."
+        },
+        {
+            "id": 46,
+            "name": "Oldboy",
+            "email": "After being kidnapped and imprisoned for fifteen years, Oh Dae-Su is released, only to find that he must track down his captor in five days."
+        },
+        {
+            "id": 47,
+            "name": "Avengers: Endgame",
+            "email": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe."
+        },
+        {
+            "id": 48,
+            "name": "Joker",
+            "email": "Arthur Fleck, a party clown and a failed stand-up comedian, leads an impoverished life with his ailing mother. However, when society shuns him and brands him as a freak, he decides to embrace the life of chaos in Gotham City."
+        },
+        {
+            "id": 49,
+            "name": "3 Idiots",
+            "email": "Two friends are searching for their long lost companion. They revisit their college days and recall the memories of their friend who inspired them to think differently, even as the rest of the world called them 'idiots'."
+        },
+        {
+            "id": 50,
+            "name": "Capernaum",
+            "email": "While serving a five-year sentence for a violent crime, a 12-year-old boy sues his parents for neglect."
+        },
+        {
+            "id": 51,
+            "name": "The Substance",
+            "email": "A fading celebrity takes a black-market drug: a cell-replicating substance that temporarily creates a younger, better version of herself."
+        },
+        {
+            "id": 52,
+            "name": "Moana 2",
+            "email": "After receiving an unexpected call from her wayfinding ancestors, Moana must journey to the far seas of Oceania and into dangerous, long-lost waters for an adventure unlike anything she's ever faced."
+        },
+        {
+            "id": 53,
+            "name": "Kraven The Hunter",
+            "email": "Kraven's complex relationship with his ruthless father, Nikolai Kravinoff, starts him down a path of vengeance with brutal consequences, motivating him to become not only the greatest hunter in the world, but also one of its most feared."
+        },
+        {
+            "id": 54,
+            "name": "Elevation",
+            "email": "A single father and two women venture from the safety of their homes to face monstrous creatures to save the life of a young boy."
+        },
+        {
+            "id": 55,
+            "name": "Venom: The Last Dance",
+            "email": "Eddie Brock and Venom must make a devastating decision as they're pursued by a mysterious military man and alien monsters from Venom's home world."
+        },
+        {
+            "id": 56,
+            "name": "Red One",
+            "email": "After Santa Claus is kidnapped, the North Pole's Head of Security must team up with the world's most infamous bounty hunter in a globe-trotting, action-packed mission to save Christmas."
+        },
+        {
+            "id": 57,
+            "name": "Apocalypse Z",
+            "email": "Manel is sheltering from a rabies-like disease which sweeps the planet, until he is forced to leave and meet unlikely but essential traveling companions."
+        },
+        {
+            "id": 58,
+            "name": "Gladiator II",
+            "email": "After his home is conquered by the tyrannical emperors who now lead Rome, Lucius is forced to enter the Colosseum and must look to his past to find strength to return the glory of Rome to its people."
+        },
+        {
+            "id": 59,
+            "name": "Dune: Part Two",
+            "email": "Paul Atreides unites with the Fremen while on a warpath of revenge against the conspirators who destroyed his family. Facing a choice between the love of his life and the fate of the universe, he endeavors to prevent a terrible future."
+        },
+        {
+            "id": 60,
+            "name": "Oppenheimer",
+            "email": "A dramatization of the life story of J. Robert Oppenheimer, the physicist who had a large hand in the development of the atomic bombs that brought an end to World War II."
+        }
+]

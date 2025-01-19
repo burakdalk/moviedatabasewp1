@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+    <style>ul {
+        list-style-type: none;
+        margin: 0;
+        padding: 0;
+      }
+      </style>
+    <body>
+      <body bgcolor="black"></body>
+        <div class="nav">
+            <a id="home" class="active left" href="web programing.html">Home</a>
+            <a href="Categories.html">Categories</a>
+            <a href="about.html">About Web Programming Project</a>
+            <a href="All-movies.html">Movies</a>
+            <meta http-equiv="X-UA-Compatible" content="IE=edge">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <script src="All-movies.js" defer></script>
+          </div>
+            <head>
+                <link rel="stylesheet" href="Allmovies.css">
+                <script src="movies.json"></script>
+                
+                <div>
+                    <h1>ALL MOVIES</h1>
+                    <div class="container">
+                      <div class="search-wrapper">
+                        <label for="search">Search</label>
+                        <input type="search" id="search" data-search>
+                      </div>
+                      <div class="user-cards" data-user-cards-container></div>
+                      <template data-user-template>
+                        <div class="card">
+                          <div class="header" data-header></div>
+                          <div class="body" data-body></div>
+                        </div>
+                      </template>
+                        
+                        
+                    <div class="Photo-grid"></div>
+                    
+            
+                </div>
+                <meta charset="UTF-8">
+                <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                <title>Document</title>
+            </head>
+            </body>
